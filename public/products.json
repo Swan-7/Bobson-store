@@ -1,0 +1,56 @@
+[{
+  "uuid": "66b7d65481b3856a50f86136",
+  "name": "M185 -EER2- SWIFT GREY",
+  "price": 21,
+  "description": "M185 provides a controlled line-by-line scrolling experience for easier navigation. No more annoying missed clicks—the optical sensor allows you to track with smooth and accurate cursor control on almost any surface.",
+  "productImage": "https://res.cloudinary.com/edifice-solutions/image/upload/v1723338341/Screenshot_2024-08-10_at_21.45.40-removebg-preview_hqycik.png",
+  "__v": 0
+},
+{
+ "uuid": "66b7d65481b3856a50f863843",
+  "name": "Mouse - Silent Click - Blue",
+  "price": 23,
+  "description": "This mouse operates on a reliable 2.4 GHz wireless connection with a range of up to 10 meters, giving you the freedom to move around without being tethered to your desk. The long-lasting battery life of up to 18 months means you wont have to worry about frequent battery changes. Compatible with Windows, Mac, Chrome OS, and Linux, the Logitech M220 is versatile and easy to set up.",
+  "productImage": "https://res.cloudinary.com/edifice-solutions/image/upload/v1723338341/Screenshot_2024-08-10_at_21.45.10-removebg-preview_qztnlz.png",
+  "__v": 0
+},
+{
+ "uuid": "66335d65481b3856a50f86136",
+  "name": "Wireless Mouse - Mid Grey",
+  "price": 18,
+  "description": "The Logitech M190 Wireless Mouse - Mid Grey is an ideal addition to any workspace, offering a blend of reliability, comfort, and performance. Whether youre working on a desktop, laptop, or Chromebook, this mouse delivers smooth, precise control with its advanced optical tracking technology",
+  "productImage": "https://res.cloudinary.com/edifice-solutions/image/upload/v1723338342/Screenshot_2024-08-10_at_21.46.08-removebg-preview_c1yy6h.png",
+  "__v": 0
+},
+{
+ "uuid": "6646dfs7d65481b3856a506136",
+  "name": "M187 - EMEA - BLACK",
+  "price": 25,
+  "description": "Logitech Ultra Portable Wireless Mouse M187. Take it wherever you take your laptop—thanks to its pocket-ready, extra-small design. Plus, setup is simple. Just plug in the nano receiver and start using your mouse. You’ll enjoy the freedom of wireless with more precision and control than your laptop’s touchpad.",
+  "productImage": "https://res.cloudinary.com/edifice-solutions/image/upload/v1723338319/Screenshot_2024-08-10_at_21.44.19-removebg-preview_puphnk.png",
+  "__v": 0
+},
+{
+ "uuid": "66b7d654813856bb50f86130",
+  "name": "Wireless Touch TV Keyboard",
+  "price": 15,
+  "description": "The built-in touchpad keeps your typing and navigation all in one place. When it comes to your PC-controlled TV, K400 makes navigation easier with no need to connect keyboard and mouse separately (or get off the couch). So you can seamlessly watch videos, browse the web, or chat with friends.",
+  "productImage": "https://res.cloudinary.com/edifice-solutions/image/upload/v1723338342/Screenshot_2024-08-10_at_21.46.58-removebg-preview_pu39c5.png",
+  "__v": 0
+},
+{
+"uuid": "76b7d65481b3856a50f843136",
+  "name": "PTZ PRO 2 CAMERA - EMEA",
+  "price": 320,
+  "description": " PTZ Pro 2 delivers premium optics and life-like video to create the experience of sitting together in the same room, even if you are a thousand miles away. Technical improvements accent the camera’s brilliantly sharp image resolution, outstanding color reproduction, and exceptional optical accuracy. At half the price of comparable models, PTZ Pro 2 is clearly the smart choice.",
+  "productImage": "https://res.cloudinary.com/edifice-solutions/image/upload/v1723338342/Screenshot_2024-08-10_at_21.48.08-removebg-preview_sbs01l.png",
+  "__v": 0
+},
+{
+"uuid": "66b7d65481bc156a50f86136",
+  "name": "4K ULTRA HD VIDEO & HDR",
+  "price": 210,
+  "description": "RightLight 3 technology and high dynamic range (HDR) technology automatically adjust and balance in any lighting condition so as to help you look professional",
+  "productImage": "https://res.cloudinary.com/edifice-solutions/image/upload/v1723338341/Screenshot_2024-08-10_at_21.47.56-removebg-preview_lml5pm.png",
+  "__v": 0
+}]
